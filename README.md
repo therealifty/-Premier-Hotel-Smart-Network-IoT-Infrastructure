@@ -94,7 +94,7 @@ project/
 ## 📑 Project Report
 A detailed project report and topology documentation are available for further review, including IP addressing plans, DFD, OSPF tables, and IoT configuration scripts.
 
-📥 **Download Report:** [https://drive.google.com/file/d/1JI-gW2k1K5crsBXSg9AoTDhNhVqZFe0T/view?usp=sharing]
+📥 **[View Full Project Report (PDF)](./Premier_Hotel_Report.pdf)**
 
 ## 📋 Project Management
 To ensure efficient planning, topology design, and testing, our team coordinated the project workflow effectively.
